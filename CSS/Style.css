@@ -1,1 +1,20 @@
-.fontfamily
+* {
+    margin: 0px;
+}
+
+.header_nav a {
+    color: aliceblue;
+    font-weight: 500;
+    padding: 0 0.25rem;
+}
+
+.maya {
+    background: url(https://www.pngwing.com/en/free-png-kjbes) 50%/cover no-repeat hsla(0, 0%, 93%, 0.8);
+    margin-bottom: 1.25rem;
+}
+
+.maya_background {
+    background: url(https://www.pngwing.com/en/free-png-kjbes) 50%/cover no-repeat;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
